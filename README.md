@@ -1,2 +1,2 @@
 # Southern Ocean 
-[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/sergey-molodtsov/SouthernOcean/Ocean_cmip/master)
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://mybinder.org/v2/gh/sergey-molodtsov/Ocean_cmip/master)
